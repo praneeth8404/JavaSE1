@@ -23,7 +23,7 @@ public class League {
 		}
 		
 		
-		System.out.println(currBestTeam.getTeamName()+" has won the kurnool League marvellously and greatly");
+		System.out.println(currBestTeam.getTeamName()+" has won the kurnool League marvellously and greatly and tremendously");
 		
 	}
 	
